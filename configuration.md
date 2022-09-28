@@ -33,7 +33,7 @@ Each interfacer can have multiple channels defined and multiple interfacers can 
 Nodes holds the decoder configuration for rfm12/69 node data which are sent as binary structures.
 
 ```text
-#######################################################################
+        #######################################################################
         #######################      emonhub.conf     #########################
         #######################################################################
         ### emonHub configuration file, for info see documentation:
